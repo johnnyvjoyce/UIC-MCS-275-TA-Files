@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 # Data set source:
 # UCI Machine Learning Repository
 # https://archive.ics.uci.edu/ml/datasets/Flags
@@ -140,8 +134,6 @@ extract("flag.csv","flag.db")
 #flagquery("SELECT name FROM flag WHERE landmass == 2") # Finds the names of all countries in South America
 #flagquery("ALTER TABLE flag DROP COLUMN circles") # Deletes the circles column
 
-
-# In[ ]:
 
 
 
