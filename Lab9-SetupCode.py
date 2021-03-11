@@ -18,7 +18,7 @@ Number of attributes: 30 (overall)
 Attribute Information:
    1. name	Name of the country concerned
 
-   2. landmass	1=N.America, 2=S.America, 3=Europe, 4=Africa, 4=Asia, 6=Oceania
+   2. landmass	1=N.America, 2=S.America, 3=Europe, 4=Africa, 5=Asia, 6=Oceania
 
    3. zone	Geographic quadrant, based on Greenwich and the Equator 1=NE, 2=SE, 3=SW, 4=NW
 
