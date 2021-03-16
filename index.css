@@ -1,0 +1,31 @@
+body {
+  width: 960px;  /* width of the html body*/
+  margin: auto; /* defines margin around an elemnt*/
+  text-align: center; /*align text with center*/
+  }
+
+#content {
+  overflow: auto; /* regulates when overflow occurs*/
+  height: 100%;   /* height set to 100 %*/
+  }
+
+#menu, #feature, #footer {
+  background-color: #c0c0c0; /*background color set to gray using Hex Code RGB*/
+  padding: 10px;   /* space around content*/
+  margin: 10px;
+  }
+
+.column1, .column2, .column3 {
+  background-color: #c0c0c0;
+  width: 300px;
+  float: left;
+  margin: 10px;
+  }
+
+  
+
+li {   /*regulates menu/list items*/
+  display: inline;   /* display menu items in line*/
+  padding: 5px;
+  }
+     
